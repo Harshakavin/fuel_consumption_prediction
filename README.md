@@ -1,2 +1,3 @@
-# fuel_consumption_prediction
-My Assignments 1
+# fuel_consumption_prediction 
+11 000 records 
+
